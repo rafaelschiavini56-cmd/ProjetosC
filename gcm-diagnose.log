@@ -1,0 +1,205 @@
+﻿Diagnose log at 2026-06-05T10:38:58Z
+
+AppPath: E:\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: E:\Git\mingw64\bin\
+Version: 2.6.1+786ab03440ddc82e807a97c0e540f5247e44cec6
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 19045)
+Reading environment variables... OK
+ Variables:
+HOMEPATH=\Users\Rafael
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMPUTERNAME=DESKTOP-GM06EQG
+SHELL=E:\Git\usr\bin\bash.exe
+MSYSTEM=MINGW64
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+OneDrive=C:\Users\Rafael\OneDrive
+ProgramFiles(x86)=C:\Program Files (x86)
+CONFIG_SITE=E:/Git/etc/config.site
+LC_CTYPE=pt_BR.UTF-8
+USERDOMAIN=DESKTOP-GM06EQG
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+ORIGINAL_TEMP=C:/Users/Rafael/AppData/Local/Temp
+MINGW_PREFIX=E:/Git/mingw64
+GIT_EXEC_PATH=E:/Git/mingw64/libexec/git-core
+ACLOCAL_PATH=E:\Git\mingw64\share\aclocal;E:\Git\usr\share\aclocal
+TEMP=C:\Users\Rafael\AppData\Local\Temp
+LOCALAPPDATA=C:\Users\Rafael\AppData\Local
+MANPATH=E:\Git\mingw64\local\man;E:\Git\mingw64\share\man;E:\Git\usr\local\man;E:\Git\usr\share\man;E:\Git\usr\man;E:\Git\share\man
+TERM=xterm
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 58 Stepping 9, GenuineIntel
+MSYSTEM_CARCH=x86_64
+PROGRAMFILES=C:\Program Files (x86)
+ProgramData=C:\ProgramData
+TERM_PROGRAM_VERSION=3.8.1
+ORIGINAL_TMP=C:/Users/Rafael/AppData/Local/Temp
+PROCESSOR_REVISION=3a09
+SYSTEMROOT=C:\Windows
+TERM_PROGRAM=mintty
+PROCESSOR_LEVEL=6
+NUMBER_OF_PROCESSORS=8
+SSH_ASKPASS=E:/Git/mingw64/bin/git-askpass.exe
+SHLVL=1
+APPDATA=C:\Users\Rafael\AppData\Roaming
+SYSTEMDRIVE=C:
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+HOSTNAME=DESKTOP-GM06EQG
+PKG_CONFIG_PATH=E:\Git\mingw64\lib\pkgconfig;E:\Git\mingw64\share\pkgconfig
+QT_DEVICE_PIXEL_RATIO=auto
+MSYSTEM_CHOST=x86_64-w64-mingw32
+WINDIR=C:\Windows
+PLINK_PROTOCOL=ssh
+INFOPATH=E:\Git\mingw64\local\info;E:\Git\mingw64\share\info;E:\Git\usr\local\info;E:\Git\usr\share\info;E:\Git\usr\info;E:\Git\share\info
+ProgramW6432=C:\Program Files
+PATH=E:/Git/mingw64/libexec/git-core;C:\Users\Rafael\bin;E:\Git\mingw64\bin;E:\Git\usr\local\bin;E:\Git\usr\bin;E:\Git\usr\bin;E:\Git\mingw64\bin;E:\Git\usr\bin;C:\Users\Rafael\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;E:\Git\cmd;C:\Users\Rafael\AppData\Local\Programs\Python\Launcher;C:\Users\Rafael\AppData\Local\Microsoft\WindowsApps;E:\Microsoft VS Code\bin;E:\Git\usr\bin\vendor_perl;E:\Git\usr\bin\core_perl
+MINGW_CHOST=x86_64-w64-mingw32
+GIT_TRACE2_PARENT_SID=e42411ad-98bf-4c3f-9ec8-1da893f31231
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+PKG_CONFIG_SYSTEM_LIBRARY_PATH=E:/Git/mingw64/lib
+TMPDIR=C:\Users\Rafael\AppData\Local\Temp
+TMP=C:\Users\Rafael\AppData\Local\Temp
+PT8HOME=C:\Program Files\Cisco Packet Tracer 8.1.0
+HOME=C:\Users\Rafael
+COMSPEC=C:\Windows\system32\cmd.exe
+LOGONSERVER=\\DESKTOP-GM06EQG
+USERPROFILE=C:\Users\Rafael
+FPS_BROWSER_USER_PROFILE_STRING=Default
+DISPLAY=needs-to-be-defined
+COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-GM06EQG
+CommonProgramW6432=C:\Program Files\Common Files
+HOMEDRIVE=C:
+MSYSTEM_PREFIX=E:/Git/mingw64
+OLDPWD=C:/Users/Rafael
+MINGW_PACKAGE_PREFIX=mingw-w64-x86_64
+SESSIONNAME=Console
+PWD=E:/Projetos Programador/Projetos c++
+EXEPATH=E:\Git
+USERNAME=Rafael
+PROCESSOR_ARCHITEW6432=AMD64
+ORIGINAL_PATH=E:\Git\mingw64\bin;E:\Git\usr\bin;C:\Users\Rafael\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;E:\Git\cmd;C:\Users\Rafael\AppData\Local\Programs\Python\Launcher;C:\Users\Rafael\AppData\Local\Microsoft\WindowsApps;E:\Microsoft VS Code\bin
+PROCESSOR_ARCHITECTURE=x86
+PS1=\[\033]0;$TITLEPREFIX:$PWD\007\]\n\[\033[32m\]\u@\h \[\033[35m\]$MSYSTEM \[\033[33m\]\w\[\033[36m\]`__git_ps1`\[\033[0m\]\n$ 
+OS=Windows_NT
+PKG_CONFIG_SYSTEM_INCLUDE_PATH=E:/Git/mingw64/include
+_=E:/Git/mingw64/bin/git
+ALLUSERSPROFILE=C:\ProgramData
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\Rafael\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\Rafael\AppData\Local\Temp\371b484f813f0f7b9f13e0af'... OK
+Reading from temporary file 'C:\Users\Rafael\AppData\Local\Temp\371b484f813f0f7b9f13e0af'... OK
+Deleting temporary file 'C:\Users\Rafael\AppData\Local\Temp\371b484f813f0f7b9f13e0af'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\Rafael
+UserDataDirectoryPath: C:\Users\Rafael\.gcm
+GetCurrentDirectory(): E:\Projetos Programador\Projetos c++
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com... OK
+ OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:55366/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.51.2.windows.1'
+Locating current repository...Git repository at 'E:/Projetos Programador/Projetos c++/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:E:/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:E:/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:E:/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:E:/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:E:/Git/etc/gitconfig	filter.lfs.required=true
+file:E:/Git/etc/gitconfig	http.sslbackend=schannel
+file:E:/Git/etc/gitconfig	core.autocrlf=true
+file:E:/Git/etc/gitconfig	core.fscache=true
+file:E:/Git/etc/gitconfig	core.symlinks=false
+file:E:/Git/etc/gitconfig	pull.rebase=false
+file:E:/Git/etc/gitconfig	credential.helper=manager
+file:E:/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:E:/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/Rafael/.gitconfig	gui.recentrepo=E:/Git
+file:C:/Users/Rafael/.gitconfig	user.name=Rafael Schiavini
+file:C:/Users/Rafael/.gitconfig	user.email=rafaelschiavini56@gmail.com
+file:C:/Users/Rafael/.gitconfig	credential.helper=manager
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/rafaelschiavini56-cmd/structsC.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\Rafael\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\Rafael\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
