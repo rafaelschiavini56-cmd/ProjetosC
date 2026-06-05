@@ -1,0 +1,25 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+typedef struct{
+	char nome[50];
+	int idade;
+} Pessoa;
+
+int main(){
+	
+	Pessoa* p = (Pessoa*)malloc(sizeof(Pessoa));
+	
+	printf("Digite o nome: \n");
+	scanf("%s", p -> nome);
+	
+	printf("\nDigite a idade: \n");
+	scanf("%d", &p -> idade);
+	
+	printf("%s tem %d anos. \n", p -> nome, p -> idade);
+	
+	
+	free (p);
+		
+ return 0;	
+}
